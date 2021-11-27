@@ -1,8 +1,13 @@
-### Hi there, I'm Erik
+# Hi there, I'm Erik
+## Project Lead and Programmer
 
-## I'm a Husband, Father of three awesome kids and have to do with coding
+🎓  I'm currently learning VueJS 
+🤓  I'm trying to become better in Python
+⚡️   I'm 
 
-🎓  I'm currently learning JavaScript  
-🤓  I'm trying to become better in Pythons 🐍 Matplotlib Library  
-🚧  I'm working on a Python Script to visualize my expenses  
-⚡️  I'm ...  
+---
+# สวัสดี ผมชื่อเอริค
+## ผู้จัดการโครงการและโปรแกรมเมอร์
+🎓  ผมเรียน VueJS
+🤓  พยายามที่จะดีขึ้นใน ไพทอน
+⚡️  ผม...
